@@ -1,0 +1,116 @@
+.punk5{
+  width: 100%;
+  height: 600px;
+  flex-shrink: 0;
+  background-image: url(../image/punk5\ back.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-attachment: fixed;
+  background-color: #000;
+}
+.punk5-text{
+padding-top: 260px;
+padding-left: 1400px;
+}
+.punk5-text p{
+  width: 151px;
+  color: #FFF;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.punk5-text2{
+  padding-left: 1400px;
+
+}
+.punk5-text2 p{
+  width: 273px;
+  color: #C0C0C0;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+}
+.punk5-text3{
+  display: flex;
+  padding-top: 203px;
+  padding-left: 1400px;
+}
+.punk5-text3-1{
+  display: flex;
+  gap: 6px;
+
+  }
+  .punk5-text3-1 img{
+    width: 16px;
+    height: 16px;
+    flex-shrink: 0;
+  }
+  .punk5-text3-1 p{
+    width: 48px;
+    color: #FFF;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 12px;
+  }
+  .punk5-text3-2{
+    display: flex;
+    gap: 6px;
+    }
+    .punk5-text3-2 img{
+      width: 16px;
+      height: 16px;
+      flex-shrink: 0;
+    }
+    .punk5-text3-2 p{
+      width: 48px;
+      color: #FFF;
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      font-size: 12px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 12px;
+    }
+    .punk5-text3-3{
+      display: flex;
+      gap: 6px;
+      }
+      .punk5-text3-3 img{
+        width: 32px;
+        height: 16px;
+        flex-shrink: 0;
+      }
+      .punk5-text3-3 p{
+        width: 48px;
+        color: #FFF;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 12px;
+      }
+      .punk5-text3-4{
+        display: flex;
+        gap: 6px;
+        }
+        .punk5-text3-4 img{
+        width: 10px;
+        height: 16px;
+        flex-shrink: 0;
+        }
+        .punk5-text3-4 p{
+          width: 48px;
+          color:#FFF;
+          font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+          font-size: 12px;
+          font-style: normal;
+          font-weight: 400;
+          line-height: 12px;
+        }

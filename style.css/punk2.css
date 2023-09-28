@@ -1,0 +1,302 @@
+.punk2{
+  width: 100%;
+  height: 1558px;
+  flex-shrink: 0;
+  background-color: #000;
+  background-attachment: fixed;
+  background-attachment: fixed;
+
+}
+.punk2-text1 p{
+  padding-top: 113px;
+  width: 248px;
+  color: #FFF;
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 42px;
+}
+.punk2-text2 p{
+  padding-top: 15px;
+  width: 413px;
+  color: #C0C0C0;
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+}
+.punk2-item{
+  padding:40px 120px 100px 120px ;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-content: center;
+  display: flex;
+  gap: 16px;
+
+
+}
+.punk2-item-1{
+  width: 576px;
+  height: 600px;
+  flex-shrink: 0;
+  background-image: url(../image/punk2-rasm1.png);
+}
+.punk2-item-1-text{
+  padding-top: 421px;
+  padding-left: 30px;
+  padding-right: 324px;
+}
+.punk2-item-1-text p{
+  width: 222px;
+  height: 40px;
+  color: #FFF;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+
+}
+.punk2-item-1-text2{
+padding-left: 30px;
+padding-right: 45px;
+}
+.punk2-item-1-text2 p{
+  width: 470px;
+  height: 80px;
+  flex-shrink: 0;
+  color: #C0C0C0;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+}
+.punk2-item-1 button{
+  width: 143px;
+  height: 42px;
+  flex-shrink: 0;
+  border-radius: 14px;
+  background: #FFF;
+  align-items: center;
+  display: flex;
+  gap: 6px;
+  margin-left: 30px;
+  margin-bottom: 30px;
+}
+.punk2-item-1 button img{
+  width: 35px;
+  height: 32px;
+  flex-shrink: 0;
+  padding-left: 4px;
+}
+.punk2-item-1 button p{
+  width: 91px;
+  color: #000;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0.4px;
+}
+.punk2-item-2{
+  width: 576px;
+  height: 600px;
+  flex-shrink: 0;
+  background-image: url(../image/punk2-rasm2.png);
+}
+.punk2-item-2-text{
+padding-top: 421px;
+padding-left: 30px;
+
+}
+.punk2-item-2-text p{
+  width: 267px;
+  height: 40px;
+  color: #FFF;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+
+}
+.punk2-item-2-text2{
+  padding-left: 30px;
+  padding-right: 45px;
+  }
+  .punk2-item-2-text2 p{
+    width: 470px;
+    height: 80px;
+    flex-shrink: 0;
+    color: #C0C0C0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+  }
+  .punk2-item-2 button{
+    width: 143px;
+    height: 42px;
+    flex-shrink: 0;
+    border-radius: 14px;
+    background: #FFF;
+    align-items: center;
+    display: flex;
+    gap: 6px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+  }
+  .punk2-item-2 button img{
+    width: 35px;
+    height: 32px;
+    flex-shrink: 0;
+    padding-left: 4px;
+  }
+  .punk2-item-2 button p{
+    width: 91px;
+    color: #000;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.4px;
+  }
+  .punk2-item-3{
+    width: 576px;
+    height: 600px;
+    flex-shrink: 0;
+    background-image: url(../image/punk2-rasm3.png);
+  }
+  .punk2-item-3-text {
+    padding-top: 421px;
+    padding-left: 30px;
+  }
+  .punk2-item-3-text p{
+    width: 196px;
+    color: #FFF;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+  .punk2-item-3-text2{
+    padding-left: 30px;
+    padding-right: 45px;
+  }
+  .punk2-item-3-text2 p{
+    width: 480px;
+    color: #C0C0C0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    padding-bottom:17px ;
+  }
+  .punk2-item-3 button{
+    width: 143px;
+    height: 42px;
+    flex-shrink: 0;
+    border-radius: 14px;
+    background: #FFF;
+    align-items: center;
+    display: flex;
+    gap: 6px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+  }
+  .punk2-item-3 button img{
+    width: 35px;
+    height: 32px;
+    flex-shrink: 0;
+    padding-left: 4px;
+  }
+  .punk2-item-3 button p{
+    width: 91px;
+    color: #000;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.4px;
+  }
+  .punk2-item-4{
+    width: 576px;
+    height: 600px;
+    flex-shrink: 0;
+    background-image: url(../image/punk2-rasm4.png);
+  }
+  .punk2-item-4-text {
+    padding-top: 421px;
+    padding-left: 30px;
+  }
+  .punk2-item-4-text p{
+    width: 215px;
+    color: #FFF;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+  .punk2-item-4-text2{
+    padding-left: 30px;
+    padding-right: 45px;
+  }
+  .punk2-item-4-text2 p{
+    width: 480px;
+    color: #C0C0C0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    padding-bottom: 17px;
+  }
+  .punk2-item-4 button{
+    width: 143px;
+    height: 42px;
+    flex-shrink: 0;
+    border-radius: 14px;
+    background: #FFF;
+    align-items: center;
+    display: flex;
+    gap: 6px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+
+  }
+  .punk2-item-4 button img{
+    width: 35px;
+    height: 32px;
+    flex-shrink: 0;
+    padding-left: 4px;
+  }
+  .punk2-item-4 button p{
+    width: 91px;
+    color: #000;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.4px;
+  }

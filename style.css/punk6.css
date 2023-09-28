@@ -1,0 +1,61 @@
+.punk6{
+  width: 100%;
+  height: 500px;
+  flex-shrink: 0;
+  background-color: #000;
+  background-attachment: fixed;
+}
+.punk6-text1{
+  padding-top:113px ;
+}
+.punk6-text1 p{
+  width: 229px;
+  color: #FFF;
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 42px;
+}
+.punk6-text2{
+padding-top: 15px;
+}
+.punk6-text2 p{
+  width: 441px;
+  color: #C0C0C0;
+  text-align: center;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+  padding-bottom: 111px;
+}
+.punk6-text3{
+  display: flex;
+  gap: 109px;
+  padding-top: 50px;
+  align-items: center;
+  padding-left: 22%;
+}
+.punk6-1{
+  width: 128px;
+  height: 30px;
+}
+.punk6-2{
+  width: 128px;
+  height: 78px;
+}
+.punk6-3{
+  width: 128px;
+  height: 20px;
+}
+.punk6-4{
+  width: 128px;
+  height: 36px;
+}
+.punk6-5{
+  width: 128px;
+  height: 32px;
+}
